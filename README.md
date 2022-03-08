@@ -19,7 +19,8 @@ pass correct parameters. <br />
 <br />
 Program called with incorrect parameters prints an error message: <br />
 Incorrect n-th argument.  <br />
-Correct input: -a fileInputA -b fileInputB -o fileOutput -operation typeOfOperation <br /> <br />
+Correct input:<br />
+-a fileInputA -b fileInputB -o fileOutput -operation typeOfOperation <br /> <br />
 Incorrect files are detected and cause a message: <br />
 Error! Couldn't open! <br /> <br />
 Incorrect first line of file content cause a message: <br />
