@@ -12,3 +12,13 @@ Program should get following switches from console: <br />
 -b input file for B matrix <br />
 -o output file with resutls of calcuation or error message if calcualtions cannot be performed <br />
 -operation 'name' – name of operation to be performed, example „operation add” <br />
+
+Files are text files. Each time the program starts, it displays a short menu, how to <br />
+pass correct parameters. <br />
+Program called with incorrect parameters prints an error message: <br />
+Incorrect n-th argument.  <br />
+Correct input: -a fileInputA -b fileInputB -o fileOutput -operation typeOfOperation <br /> <br />
+Incorrect files are detected and cause a message: <br />
+Error! Couldn't open! <br /> <br />
+Incorrect first line of file content cause a message: <br />
+Incorrect first line of the input file. <br />
