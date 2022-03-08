@@ -15,6 +15,8 @@ Program should get following switches from console: <br />
 
 Files are text files. Each time the program starts, it displays a short menu, how to <br />
 pass correct parameters. <br />
+![image](https://user-images.githubusercontent.com/56159258/157210088-906d903b-7f27-4bdb-8330-707ae029ca34.png)
+<br />
 Program called with incorrect parameters prints an error message: <br />
 Incorrect n-th argument.  <br />
 Correct input: -a fileInputA -b fileInputB -o fileOutput -operation typeOfOperation <br /> <br />
